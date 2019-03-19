@@ -23,8 +23,9 @@ package requires 'numpy'
 
 ## Contribution
 
-PLACE CONTRIBUTION
+Pull requests are welcome. Kindly update the tests and raise any issues that you come across.
 
 ## License
 
-PLACE LICENSE
+[MIT]
+(https://choosealicense.com/licenses/mit/)
